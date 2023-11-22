@@ -1,1 +1,2 @@
 Hello, it's my first trigger.
+this is my second trigger.
